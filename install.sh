@@ -4,6 +4,6 @@
 
 sudo apt-get install netcat python3 -y
 
-chmod +x shell.sh
+chmod +x shellxss.py
 
 echo "Instalação completa"
