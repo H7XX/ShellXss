@@ -4,6 +4,8 @@
 
 # Screenshots 📸
 
+<img src="https://user-images.githubusercontent.com/88547689/135124681-7c121c99-46fd-4e77-abe1-065f6e0e420a.png" alt="banner" style="max-width:100%;">
+
 # 💉ShellXss💉
  
 > Versão: 1.0
