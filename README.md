@@ -14,6 +14,7 @@ Esse script abre uma sessão shell em um local vulneravel a injeção xss
 
 # Plataformas 
 ✔️ Kali Linux 💻
+ 
 ❌ Termux app 📱
 
 # Como instalar
